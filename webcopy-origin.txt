@@ -1,0 +1,356 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800&display=swap
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Muli:300,400,600,700&display=swap
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400,500,600,700&display=swap
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://othmane.netlify.app/
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/assets/css/plugins.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/animate.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\animate.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/aos.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\aos.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/bootstrap-grid.min.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/fontawesome-all.min.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/justifiedGallery.min.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\justifiedGallery.min.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/magnific-popup.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/slick.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\slick.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/swiper.min.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\swiper.min.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/plugins/youtubepopup.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\plugins\youtubepopup.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/css/style.css
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-brands-400.woff
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-regular-400.woff
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-solid-900.woff
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://othmane.netlify.app/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://othmane.netlify.app/assets/img/apple-touch-icon.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/b.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\b.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/blog/home.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\blog\home.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/c.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\c.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/circle-dotted.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\circle-dotted.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/favicon.ico
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://othmane.netlify.app/assets/img/logo-dark.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo-dark.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/1.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\1.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/2.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\2.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/3.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\3.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/4.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\4.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/5.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\5.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/logo/6.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\logo\6.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/music.mp3
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\music.mp3
+Content Type: audio/mpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/logos/doctor.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\logos\doctor.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/logos/hdelice.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\logos\hdelice.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/logos/lorde.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\logos\lorde.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/logos/ob.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\logos\ob.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/ui/eventplanner.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\ui\eventplanner.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/ui/gesassure.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\ui\gesassure.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/videos/animation.JPG
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\videos\animation.JPG
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/videos/car.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\videos\car.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/project/videos/christmas.JPG
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\videos\christmas.JPG
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/videos/octobot.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\videos\octobot.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/project/web/car.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\car.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/ecommerce.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\ecommerce.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/ecommerce2.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\ecommerce2.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/parages.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\parages.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/park.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\park.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/pharmacie.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\pharmacie.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/smartdict.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\smartdict.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/project/web/wordpress.jpg
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\project\web\wordpress.jpg
+Content Type: image/jpeg
+
+Uri: https://othmane.netlify.app/assets/img/services/1.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\services\1.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/services/2.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\services\2.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/img/services/3.png
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\img\services\3.png
+Content Type: image/png
+
+Uri: https://othmane.netlify.app/assets/js/app.js
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://othmane.netlify.app/assets/js/custom.js
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://othmane.netlify.app/assets/js/dsn-grid.js
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\js\dsn-grid.js
+Content Type: application/javascript
+
+Uri: https://othmane.netlify.app/assets/js/jquery-3.1.1.min.js
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\js\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://othmane.netlify.app/assets/js/plugins.js
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://othmane.netlify.app/assets/resume.pdf
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\resume.pdf
+Content Type: application/pdf
+
+Uri: https://othmane.netlify.app/assets/videos/background.mp4
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\videos\background.mp4
+Content Type: video/mp4
+
+Uri: https://othmane.netlify.app/assets/videos/gescar.mp4
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\videos\gescar.mp4
+Content Type: video/mp4
+
+Uri: https://othmane.netlify.app/assets/videos/octobot.mov
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\videos\octobot.mov
+Content Type: video/quicktime
+
+Uri: https://othmane.netlify.app/assets/videos/pda.mp4
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\videos\pda.mp4
+Content Type: video/mp4
+
+Uri: https://othmane.netlify.app/assets/videos/red.mp4
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\assets\videos\red.mp4
+Content Type: video/mp4
+
+Uri: https://othmane.netlify.app/car-app.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\car-app.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/contact.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/index.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/manifest.json
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\manifest.json
+Content Type: application/json
+
+Uri: https://othmane.netlify.app/octobot-logo.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\octobot-logo.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/pda-animation.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\pda-animation.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/pda-vid.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\pda-vid.html
+Content Type: text/html
+
+Uri: https://othmane.netlify.app/work.html
+File Name: C:\Users\Otmanee7\Documents\webcopy\otmane\othmane.netlify.app\work.html
+Content Type: text/html
+
